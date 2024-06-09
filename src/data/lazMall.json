@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Thảo Nguyên Shop",
+    "name2": "Thảo Nguyên Shop",
+    "src": "https://img.lazcdn.com/g/p/cec3573ae164b42fc902773a7d69f3d5.png_400x400q80.png_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/85843141db5651c3e46c8c63072e9bb9.jpeg_2200x2200q80.jpg_.webp"
+  },
+  {
+    "name": "Thien Huong Foods",
+    "name2": "Thien Huong Foods",
+    "src": "https://img.lazcdn.com/g/ff/kf/S5f7721dc06364ce6b23216607a478be53.jpg_400x400q80.jpg_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/60a3b4d21ed9152a0f910f9ad03750b9.jpeg_2200x2200q80.jpg_.webp"
+  },
+  {
+    "name": "Anello",
+    "name2": "Anello",
+    "src": "https://img.lazcdn.com/g/p/f2a0a07450e1dd6ff2b005efba136f28.jpg_400x400q80.jpg_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/ff02bdbac43136895f66f7b5a5dc318a.jpeg_2200x2200q80.jpg_.webp"
+  },
+  {
+    "name": "Dosreal",
+    "name2": "Dosreal",
+    "src": "https://img.lazcdn.com/g/p/37659afd8b724a70462ae8b707463045.jpg_400x400q80.jpg_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/c1c137616ef974aa66b313ade0be89ce.jpeg_2200x2200q80.jpg_.webp"
+  },
+  {
+    "name": "Kymdan",
+    "name2": "Kymdan",
+    "src": "https://img.lazcdn.com/g/p/8f3f64c8b5c87a6268d4295615527cc0.jpg_400x400q80.jpg_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/504fa8fc401ef8af8990f56e7c13fa3f.png_2200x2200q80.png_.webp"
+  },
+  {
+    "name": "DK Harvest",
+    "name2": "Granola",
+    "src": "https://img.lazcdn.com/g/p/2910a069442227e89712101e254d2896.jpg_400x400q80.jpg_.webp",
+    "src2": "https://img.lazcdn.com/g/shop/5e04cac41e462681117f4c12b2395580.png_2200x2200q80.png_.webp"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Smartphone",
+    "values": [
+      {"name": "iPhone", "href": "."},
+      {"name": "Samsung", "href": "."},
+      {"name": "Xiaomi", "href": "."},
+      {"name": "Vivo", "href": "."},
+      {"name": "Vsmart", "href": "."},
+      {"name": "Oppo", "href": "."},
+      {"name": "Huawei", "href": "."},
+      {"name": "iPhone 12", "href": "."},
+      {"name": "iPhone 11", "href": "."},
+      {"name": "Redmi Note 8", "href": "."},
+      {"name": "Galaxy Note", "href": "."},
+      {"name": "Galaxy A51", "href": "."},
+      {"name": "Galaxy S21 Ultra", "href": "."},
+      {"name": "Vsmart Live 4", "href": "."},
+      {"name": "Vsmart Joy 3", "href": "."}
+    ]
+  },
+  {
+    "name": "Máy tính bảng",
+    "values": [
+      {"name": "iPad", "href": "."},
+      {"name": "Samsung", "href": "."},
+      {"name": "Huawei", "href": "."},
+      {"name": "Lenovo", "href": "."},
+      {"name": "Kindle", "href": "."},
+      {"name": "iPad Pro", "href": "."},
+      {"name": "iPad mini", "href": "."},
+      {"name": "Masstel", "href": "."},
+      {"name": "iPad Air 2", "href": "."},
+      {"name": "iPad Mini 5", "href": "."},
+      {"name": "LAPTOPS", "href": "."},
+      {"name": "Dell", "href": "."},
+      {"name": "Asus", "href": "."},
+      {"name": "Macbook", "href": "."},
+      {"name": "HP", "href": "."},
+      {"name": "Lenovo", "href": "."},
+      {"name": "Acer", "href": "."},
+      {"name": "MSI", "href": "."},
+      {"name": "Microsoft Surface", "href": "."},
+      {"name": "Macbook Pro", "href": "."},
+      {"name": "Macbook Air 2018", "href": "."}
+    ]
+  },
+  {
+    "name": "Tivi",
+    "values": [
+      {"name": "Sony", "href": "."},
+      {"name": "LG", "href": "."},
+      {"name": "Vsmart", "href": "."},
+      {"name": "Xiaomi", "href": "."},
+      {"name": "Toshiba", "href": "."},
+      {"name": "Samsung", "href": "."},
+      {"name": "Panasonic", "href": "."},
+      {"name": "Sharp", "href": "."},
+      {"name": "Asanzo", "href": "."},
+      {"name": "Asano", "href": "."},
+      {"name": "TCL", "href": "."}
+    ]
+  },
+  {
+    "name": "Âm thanh",
+    "values": [
+      {"name": "Loa Bluetooth", "href": "."},
+      {"name": "Loa Karaoke", "href": "."},
+      {"name": "JBL", "href": "."},
+      {"name": "Sony", "href": "."},
+      {"name": "Harman Kardon", "href": "."},
+      {"name": "Bose", "href": "."},
+      {"name": "Tronsmart", "href": "."},
+      {"name": "Kiomic", "href": "."},
+      {"name": "Zealot", "href": "."},
+      {"name": "LG", "href": "."},
+      {"name": "Temeisheng", "href": "."},
+      {"name": "Hoco", "href": "."},
+      {"name": "Kimiso", "href": "."}
+    ]
+  },
+  {
+    "name": "Tủ lạnh",
+    "values": [
+      {"name": "Tủ lạnh mini", "href": "."},
+      {"name": "Sanyo", "href": "."},
+      {"name": "Electrolux", "href": "."},
+      {"name": "Panasonic", "href": "."},
+      {"name": "Toshiba", "href": "."},
+      {"name": "Samsung", "href": "."}
+    ]
+  },
+  {
+    "name": "Mỹ phẩm & làm đẹp",
+    "values": [
+      {"name": "La Roche Posay", "href": "."},
+      {"name": "MAC", "href": "."},
+      {"name": "Maybelline", "href": "."},
+      {"name": "Laneige", "href": "."},
+      {"name": "Innisfree", "href": "."},
+      {"name": "Vichy", "href": "."},
+      {"name": "Hadalabo", "href": "."},
+      {"name": "Senka", "href": "."},
+      {"name": "Anessa", "href": "."},
+      {"name": "The Face Shop", "href": "."},
+      {"name": "Son Black Rouge", "href": "."},
+      {"name": "Kiehl\u2019s", "href": "."},
+      {"name": "Kem Chống Nắng", "href": "."},
+      {"name": "Sữa Rửa Mặt", "href": "."},
+      {"name": "Nước Tẩy Trang", "href": "."}
+    ]
+  },
+  {
+    "name": "Máy ảnh",
+    "values": [
+      {"name": "Fujifilm", "href": "."},
+      {"name": "Nikon", "href": "."},
+      {"name": "Canon", "href": "."},
+      {"name": "Sony", "href": "."},
+      {"name": "Camcorder", "href": "."},
+      {"name": "GoPro", "href": "."},
+      {"name": "Flycam", "href": "."},
+      {"name": "Xiaomi", "href": "."}
+    ]
+  },
+  {
+    "name": "Máy giặt",
+    "values": [
+      {"name": "Electrolux", "href": "."},
+      {"name": "Sanyo", "href": "."},
+      {"name": "Toshiba", "href": "."},
+      {"name": "Aqua", "href": "."},
+      {"name": "Hitachi", "href": "."},
+      {"name": "Panasonic", "href": "."},
+      {"name": "Samsung", "href": "."},
+      {"name": "LG", "href": "."},
+      {"name": "Bosch", "href": "."},
+      {"name": "Midea", "href": "."}
+    ]
+  },
+  {
+    "name": "Lò vi sóng",
+    "values": [
+      {"name": "Sharp", "href": "."},
+      {"name": "Electrolux", "href": "."},
+      {"name": "Bluestone", "href": "."},
+      {"name": "Samsung", "href": "."},
+      {"name": "Xiaomi", "href": "."},
+      {"name": "Beko", "href": "."},
+      {"name": "Panasonic", "href": "."}
+    ]
+  },
+  {
+    "name": "Ô tô xe máy",
+    "values": [
+      {"name": "Honda", "href": "."},
+      {"name": "Xe máy Yamaha", "href": "."},
+      {"name": "Taya Motor", "href": "."},
+      {"name": "Suzuki", "href": "."},
+      {"name": "Piaggio", "href": "."},
+      {"name": "Xe Máy Điện", "href": "."}
+    ]
+  },
+  {
+    "name": "Truyện tranh hay nhất 2021",
+    "values": [
+      {"name": "Thám tử lừng danh Conan", "href": "."},
+      {"name": "Thanh Gươm Diệt Quỷ Kimetsu Yaiba", "href": "."},
+      {"name": "One Piece", "href": "."},
+      {"name": "Đảo Hải Tặc", "href": "."}
+    ]
+  },
+  {
+    "name": "Bách hóa online",
+    "values": [
+      {"name": "Thức Uống Có Cồn", "href": "."},
+      {"name": "Strongbow", "href": "."},
+      {"name": "Heineken", "href": "."},
+      {"name": "Tiger", "href": "."},
+      {"name": "Bia 333", "href": "."},
+      {"name": "Budweiser", "href": "."},
+      {"name": "Corona", "href": "."},
+      {"name": "Hoegaarden", "href": "."},
+      {"name": "Thức Uống Có Ga", "href": "."},
+      {"name": "Coca-cola", "href": "."},
+      {"name": "7Up", "href": "."},
+      {"name": "Pepsi", "href": "."},
+      {"name": "La Vie", "href": "."},
+      {"name": "Star Kombucha", "href": "."}
+    ]
+  },
+  {
+    "name": "Xu hướng tìm kiếm nổi bật 2021",
+    "values": [
+      {"name": "Sản phẩm mùa dịch Covid-19", "href": "."},
+      {"name": "Khẩu trang 3M", "href": "."},
+      {"name": "Khẩu trang Unicharm", "href": "."},
+      {"name": "Khẩu trang y tế", "href": "."},
+      {"name": "Nước Rửa Tay Khô", "href": "."},
+      {"name": "Cà Phê", "href": "."},
+      {"name": "Nồi Cơm Điện", "href": "."},
+      {"name": "Giường Ngủ", "href": "."},
+      {"name": "Đồng Hồ Nữ", "href": "."},
+      {"name": "Đồng Hồ Nam", "href": "."},
+      {"name": "Máy Chạy Bộ Điện", "href": "."},
+      {"name": "Đàn Guitar", "href": "."},
+      {"name": "Đàn Piano", "href": "."},
+      {"name": "Ghế Mát Xa", "href": "."},
+      {"name": "Dép Crocs", "href": "."},
+      {"name": "Cờ Vua", "href": "."},
+      {"name": "Nón Sơn", "href": "."},
+      {"name": "Xe Cẩu", "href": "."},
+      {"name": "Xe Cẩu", "href": "."},
+      {"name": "Hoa", "href": "."},
+      {"name": "Bảng Chữ Cái", "href": "."},
+      {"name": "Đá Bóng", "href": "."},
+      {"name": "Áo Bóng Đá", "href": "."},
+      {"name": "Bikini", "href": "."},
+      {"name": "Elsa", "href": "."},
+      {"name": "BKAV", "href": "."},
+      {"name": "Ivy Moda", "href": "."},
+      {"name": "MLB", "href": "."},
+      {"name": "Dirty Coin", "href": "."},
+      {"name": "Quần Ống Rộng", "href": "."},
+      {"name": "Vascara", "href": "."}
+    ]
+  },
+  {
+    "name": "Mua sắm trên toàn thế giới với AliExpress",
+    "values": [
+      {"name": "Nga", "href": "."},
+      {"name": "Tây Ban Nha", "href": "."},
+      {"name": "Pháp", "href": "."},
+      {"name": "Đức", "href": "."},
+      {"name": "Ba Lan", "href": "."},
+      {"name": "Brazil", "href": "."},
+      {"name": "Ả Rập Xê-út", "href": "."}
+    ]
+  },
+  {
+    "name": "Mua sắm trên toàn thế giới với Daraz",
+    "values": [
+      {"name": "Pakistan", "href": "."},
+      {"name": "Bangladesh", "href": "."},
+      {"name": "Sri Lanka", "href": "."},
+      {"name": "Myanmar", "href": "."},
+      {"name": "Nepal", "href": "."}
+    ]
+  }
+]
