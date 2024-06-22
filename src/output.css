@@ -1247,8 +1247,7 @@ h6 {
 }
 
 .line-through {
-  -webkit-text-decoration-line: line-through;
-          text-decoration-line: line-through;
+  text-decoration-line: line-through;
 }
 
 .placeholder-neutral-500::placeholder {
@@ -1295,13 +1294,11 @@ h6 {
 }
 
 .hover\:underline:hover {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 
 .hover\:decoration-sky-700:hover {
-  -webkit-text-decoration-color: #0369a1;
-          text-decoration-color: #0369a1;
+  text-decoration-color: #0369a1;
 }
 
 .hover\:shadow-lg:hover {

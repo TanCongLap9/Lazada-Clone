@@ -1,43 +1,23 @@
 {
   "name": "lazada-clone",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Xây dựng lại trang Lazada bằng ReactJS + TailwindCSS.",
+  "main": "src/index.js",
   "author": "TanCongLap9",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TanCongLap9/Lazada-Clone.git"
-  },
-  "bugs": {
-    "url": "https://github.com/TanCongLap9/Lazada-Clone/issues"
-  },
   "dependencies": {
     "@babel/core": "^7.24.5",
-    "lodash": "^4.17.21",
-    "mongodb": "4.17.2",
-    "mysql": "^2.18.1",
     "prop-types": "^15.8.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-error-boundary": "^4.0.13",
     "react-router-dom": "6.1.1",
-    "sqlite": "^5.1.1",
-    "sqlite3": "5.0.0",
-    "yargs": "^17.7.2"
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.15",
     "concurrently": "7.6.0",
-    "eslint": "6.8.0",
-    "eslint-config-airbnb": "18.2.1",
-    "eslint-plugin-import": "2.25.3",
-    "eslint-plugin-jsx-a11y": "6.5.1",
-    "eslint-plugin-react": "7.28.0",
-    "eslint-plugin-react-hooks": "4.3.0",
-    "react-scripts": "3.4.4",
     "tailwindcss": "3.2.7"
   },
   "scripts": {
